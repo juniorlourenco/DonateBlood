@@ -6,4 +6,6 @@
 * [Node Js](https://nodejs.org)
 * [Express](https://www.npmjs.com/package/express)
 
+Para testar na sua máquina, dê um 
+`git clone https://github.com/juniorlourenco/DoeSangue/`
 
