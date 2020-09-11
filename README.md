@@ -1,5 +1,6 @@
-# Site feito durante a 3ª Maratona Dev da Rocketseat - Professor Mayk Brito
-##Tecnologias utilizadas
+# Site feito durante a 3ª Maratona Dev da Rocketseat
+## Professor Mayk Brito
+## Tecnologias utilizadas
 * [Html5](https://www.w3schools.com/html/)
 * [Css3](https://www.w3.org/Style/CSS/)
 * [Javascript](https://www.w3schools.com/js/)
