@@ -5,7 +5,16 @@
 * [Javascript](https://www.w3schools.com/js/)
 * [Node Js](https://nodejs.org)
 * [Express](https://www.npmjs.com/package/express)
+* [PostgreSQL](https://www.postgresql.org/)
 
-Para testar na sua máquina, dê um 
-`git clone https://github.com/juniorlourenco/DoeSangue/`
+Para testar na sua máquina:
+* Dê um 
+`git clone https://github.com/juniorlourenco/DoeSangue/` para clonar o repositório.
+* Baixe e instale o [Postbird](https://www.electronjs.org/apps/postbird).
+* Configure um novo banco de dados com as informações:
+  - user: 'postgres',
+  - password: 'postgres',
+  - host: 'localhost',
+  - port: 5432,
+
 
