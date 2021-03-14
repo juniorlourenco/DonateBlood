@@ -10,7 +10,7 @@
 
 To run it
 * Do:
-`git clone https://github.com/juniorlourenco/DonateBlood/` to close repository.
+`git clone https://github.com/juniorlourenco/DonateBlood/` to clone repository.
 * Do:
 `npm install` to install dependencies.
 * Download and install [Postbird](https://www.electronjs.org/apps/postbird).
